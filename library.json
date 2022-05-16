@@ -1,0 +1,32 @@
+{
+	"name": "RAKwireless RAK12033 Library",
+	"version": "1.0.0",
+	"keywords": [
+		"IIM42652",
+		"TDK",
+		"RAKWireless",
+		"WisBlock",
+		"RAK12033"
+	],
+	"description": "RAK12033-IIM42652",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"*"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"email": "nero.du@rakwireless.com",
+			"url": "https://rakwireless.com",
+			"maintainer": true,
+			"name": "Nero"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RAKWireless/RAK12033-IIM42652"
+	},
+	"homepage": "https://rakwireless.com"
+}

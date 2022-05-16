@@ -1,0 +1,41 @@
+#######################################
+# Syntax Coloring Map For IIM42652
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+IIM42652_axis_t								KEYWORD1
+IIM42652	    								KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin													KEYWORD2
+get_device_id									KEYWORD2
+bank_selection	    					KEYWORD2
+temperature_enable						KEYWORD2
+gyroscope_enable							KEYWORD2
+accelerometer_enable					KEYWORD2
+soft_reset										KEYWORD2
+get_accel_data								KEYWORD2
+get_gyro_data									KEYWORD2
+get_temperature								KEYWORD2
+set_accel_fsr									KEYWORD2
+set_accel_frequency						KEYWORD2
+set_gyro_fsr									KEYWORD2
+set_gyro_frequency						KEYWORD2
+wake_on_motion_configuration	KEYWORD2
+get_WOM_INT										KEYWORD2
+enable_accel_low_power_mode		KEYWORD2
+pedometer_configuration				KEYWORD2
+get_pedometer_data						KEYWORD2
+writeRegister									KEYWORD2
+readRegister									KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
