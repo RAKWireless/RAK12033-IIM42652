@@ -1,4 +1,4 @@
-| <center><img src="./assets/rakstar.jpg" alt="RAKstar" width=25%></center>  | ![RAKWireless](./assets/RAK-Whirls.png) | [![Build Status](https://github.com/RAKWireless/RAK2033-IIM42652/workflows/RAK%20Library%20Build%20CI/badge.svg)](https://github.com/RAKWireless/RAK2033-IIM42652/actions) |
+| <center><img src="./assets/rakstar.jpg" alt="RAKstar" width=25%></center>  | ![RAKWireless](./assets/RAK-Whirls.png) | [![Build Status](https://github.com/RAKWireless/RAK12033-IIM42652/workflows/RAK%20Library%20Build%20CI/badge.svg)](https://github.com/RAKWireless/RAK12033-IIM42652/actions) |
 | -- | -- | -- |
 
 # <RAK12033>
