@@ -356,7 +356,7 @@ void IIM42652::set_accel_fsr(IIM42652_ACCEL_CONFIG0_FS_SEL_t accel_fsr_g)
   readRegister(IIM42652_REG_ACCEL_CONFIG0, &accel_cfg_0_reg, 1);
 
   accel_cfg_0_reg &= (uint8_t)~BIT_ACCEL_CONFIG0_FS_SEL_MASK;
-  accel_cfg_0_reg |= (uint8_t)accel_fsr_g;
+  accel_cfg_0_reg |= (uint8_t)accel_fsr_g<< BIT_ACCEL_CONFIG0_FS_SEL_POS;
 
   writeRegister(IIM42652_REG_ACCEL_CONFIG0, &accel_cfg_0_reg, 1);
 }
